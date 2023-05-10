@@ -1,5 +1,5 @@
 Full Name(s): Angelina Dieu, Jonathan Vergonio
-Student ID(s): 2427399,
+Student ID(s): 
 Chapman Email(s): adieu@chapman.edu , vergonio@chapman.edu
 Course number and section: CPSC-231-03
 Assignment number: MP4 - Music App
