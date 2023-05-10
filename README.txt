@@ -1,4 +1,4 @@
-Full Name(s): Angelina Dieu, Jonathan Vergonio
+Full Name(s): Angelina ----, Jonathan -------
 Student ID(s): 
 Chapman Email(s): adieu@chapman.edu , vergonio@chapman.edu
 Course number and section: CPSC-231-03
